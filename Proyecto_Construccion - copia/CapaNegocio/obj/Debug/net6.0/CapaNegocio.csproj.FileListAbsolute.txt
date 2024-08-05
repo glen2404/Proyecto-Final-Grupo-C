@@ -1,0 +1,11 @@
+C:\Users\jerem\source\repos\Proyecto_Construccion\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\jerem\source\repos\Proyecto_Construccion\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\jerem\source\repos\Proyecto_Construccion\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\jerem\source\repos\Proyecto_Construccion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\Proyecto_Construccion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\Proyecto_Construccion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\jerem\source\repos\Proyecto_Construccion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\Proyecto_Construccion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\jerem\source\repos\Proyecto_Construccion\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\jerem\source\repos\Proyecto_Construccion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\jerem\source\repos\Proyecto_Construccion\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll

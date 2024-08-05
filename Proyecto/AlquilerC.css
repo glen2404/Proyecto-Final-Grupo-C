@@ -1,0 +1,133 @@
+*{
+    margin: -0;
+    padding: -0;
+}
+
+html{
+    background-color: #dadada;
+}
+
+body{
+    width: 1799px; height: 1799px; margin: auto; background-color: #d2d2d2;
+}
+
+header{
+    width: 1799px; height: 350px; background-color: rgb(255, 255, 255);
+}
+
+section#Banner img{
+    float: left;
+}
+
+section#Logo img{
+    float: left;
+}
+
+#Login button {
+    margin: 0 60px; padding: 5px 10px; font-size: 16px; color: #fff; background-color: #3d6693; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s; white-space: nowrap;
+}
+
+#Login {
+    display: flex; justify-content: center; align-items: center; width: 300px; margin: 0 auto;
+}
+
+nav{
+    width: 1799px; height: 135px; background-color: #3d6693;
+}
+
+nav{
+    text-align: center;
+}
+
+
+section#Lista a{
+    color: #3d6693;
+    padding: 10px;
+    background-color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 1.1em;
+}
+
+section#Submenu a{
+    color: #3d6693;
+    padding: 10px;
+    background-color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 1.1em;
+}
+
+main{
+    width: 1799px; height: 1150px; background-color: #d2d2d2;
+}
+
+h1 {
+    color: #3d6693;
+    font-size: 40px;
+    text-align: center;
+ }
+
+ main img{
+    border: 5px solid #622081;
+    border-radius: 10px;
+    width: 500px;
+    height: 150px;
+    justify-content: center;
+    margin: 0 40px;
+ }
+h2 {
+    color: #3d6693;
+    font-size: 30px;
+ }
+
+ .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.Descripción, .video, .Detalles, .video1, .Características {
+    flex: 1;
+    max-width: 40%;
+}
+
+.Descripción p, .Detalles ul, .Características ul {
+    font-size: 1.0em;
+}
+
+.video video, .video iframe {
+    width: 100%;
+    height: auto;
+}
+
+footer{
+    width: 1799px; height: 164px; background-color: #3d6693; text-align: center;
+}
+
+footer address h3 {
+    font-weight: bold;
+   text-transform: capitalize;
+ }
+ 
+ footer a {
+     margin: 0 15px;
+     text-decoration: none;
+     color: #3d6693;
+     padding: 5px;
+     background-color: #ffffff;
+     border-radius: 5px;
+     transition: background-color 0.3s, color 0.3s;
+ }
+ footer p {
+     color: #ffffff;
+ }
+ strong {
+     font-weight: bold;
+     color: #ffffff;
+   }

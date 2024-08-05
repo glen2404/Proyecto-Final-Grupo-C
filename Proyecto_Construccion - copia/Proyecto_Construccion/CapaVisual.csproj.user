@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ModuloUsuario\ModificarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloFacturacion\BuscarFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloFacturacion\EliminarFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloVentas\EliminarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloVentas\BuscarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloCliente\RegistarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloCliente\BuscarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloCliente\ModificarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloCliente\EliminarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloInventario\EliminarZapato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloInventario\ModificarZapato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloUsuario\RegistrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloUsuario\BuscarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloUsuario\EliminarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloInventario\RegistrarZapato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloInventario\BuscarZapato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloVentas\RegistrarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuloFacturacion\RegistrarFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

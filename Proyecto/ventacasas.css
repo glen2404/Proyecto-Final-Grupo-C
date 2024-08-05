@@ -1,0 +1,259 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #dadada;
+}
+
+header {
+    display: flex; /* Usamos Flexbox para colocar banner y logo lado a lado */
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 2px solid #ffffff; /* Cambiado a blanco para que no se vea */
+}
+
+section#Banner img, section#Logo img {
+    border: none; /* Eliminamos cualquier borde */
+    border-radius: 10px;
+}
+
+section#Banner img {
+    width: 100%; /* Ajusta el ancho del banner según tus necesidades */
+    max-height: 350px;
+    object-fit: cover;
+}
+
+section#Logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section#Logo img {
+    width: 300px; /* Ajusta el tamaño del logo */
+    height: auto;
+    margin-bottom: 20px;
+}
+
+#Login {
+    display: flex;
+    gap: 10px; /* Espaciado entre botones */
+}
+
+#Login button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #d2d2d2;
+    background-color: #3d6693;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#Login button:hover {
+    background-color: #2a4a6b;
+}
+
+nav {
+    width: 100%;
+    background-color: #3d6693;
+    text-align: center;
+    padding: 10px 0;
+}
+
+section#Lista a, section#Submenu a {
+    color: #3d6693;
+    padding: 10px;
+    background-color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 1.1em;
+    margin: 0 5px;
+}
+
+nav a {
+    color: #ffffff;
+    padding: 10px 20px;
+    background-color: #622081;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 20px;
+    display: inline-block;
+    font-size: 1.1em;
+    margin: 0 10px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav a:hover {
+    background-color: #ffffff;
+    color: #622081;
+}
+
+h1 {
+    color: #3d6693;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    color: #3d6693;
+    font-size: 40px;
+}
+
+h3 strong {
+    color: #ffffff;
+    font-size: 25px;
+}
+
+h3 u strong {
+    color: #3d6693;
+}
+
+th {
+    color: #3d6693;
+}
+
+#Descripción {
+    text-align: center;
+    text-decoration: underline;
+}
+
+footer address h3 {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+footer {
+    background-color: #3d6693;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #3d6693;
+    padding: 5px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+footer a:hover {
+    background-color: #3d6693;
+    color: #ffffff;
+}
+
+footer p {
+    color: #ffffff;
+}
+
+footer h3 {
+    color: #ffffff;
+}
+
+p strong {
+    font-weight: bold;
+    color: #3d6693;
+}
+
+span strong {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+img {
+    border: 5px solid #622081;
+    border-radius: 20px;
+    width: 32%;
+    height: auto;
+}
+
+table img {
+    width: 150px;
+    height: auto;
+    margin-left: 35px;
+}
+
+td {
+    text-align: right;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin: 40px 0;
+}
+
+.centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.image {
+    width: 90%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.video, .Detalles, .video1 {
+    flex: 1;
+    max-width: 40%;
+}
+
+.video video, .video iframe {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+section {
+    background-color: #f1f1f1;
+}
+
+#casas-en-venta {
+    text-align: center;
+}
+
+#mas_casas {
+    text-align: center;
+}
+
+main img {
+    border: 5px solid #622081;
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    justify-content: center;
+    margin: 0 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.Descripción, .video, .Detalles, .video1, .Características {
+    flex: 1;
+    max-width: 40%;
+}
+
+.Descripción p, .Detalles ul, .Características ul {
+    font-size: 1.0em;
+}

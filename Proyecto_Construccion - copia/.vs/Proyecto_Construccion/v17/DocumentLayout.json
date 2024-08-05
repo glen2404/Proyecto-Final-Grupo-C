@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D208921-65F7-42F4-AE64-C93C7062DF11}|Proyecto_Construccion\\CapaVisual.csproj|c:\\users\\jerem\\source\\repos\\proyecto_construccion\\proyecto_construccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D208921-65F7-42F4-AE64-C93C7062DF11}|Proyecto_Construccion\\CapaVisual.csproj|solutionrelative:proyecto_construccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D208921-65F7-42F4-AE64-C93C7062DF11}|Proyecto_Construccion\\CapaVisual.csproj|c:\\users\\jerem\\source\\repos\\proyecto_construccion\\proyecto_construccion\\moduloinventario\\modificarzapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D208921-65F7-42F4-AE64-C93C7062DF11}|Proyecto_Construccion\\CapaVisual.csproj|solutionrelative:proyecto_construccion\\moduloinventario\\modificarzapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D208921-65F7-42F4-AE64-C93C7062DF11}|Proyecto_Construccion\\CapaVisual.csproj|c:\\users\\jerem\\source\\repos\\proyecto_construccion\\proyecto_construccion\\modulocliente\\modificarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D208921-65F7-42F4-AE64-C93C7062DF11}|Proyecto_Construccion\\CapaVisual.csproj|solutionrelative:proyecto_construccion\\modulocliente\\modificarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D208921-65F7-42F4-AE64-C93C7062DF11}|Proyecto_Construccion\\CapaVisual.csproj|c:\\users\\jerem\\source\\repos\\proyecto_construccion\\proyecto_construccion\\modulocliente\\registarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D208921-65F7-42F4-AE64-C93C7062DF11}|Proyecto_Construccion\\CapaVisual.csproj|solutionrelative:proyecto_construccion\\modulocliente\\registarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D208921-65F7-42F4-AE64-C93C7062DF11}|Proyecto_Construccion\\CapaVisual.csproj|c:\\users\\jerem\\source\\repos\\proyecto_construccion\\proyecto_construccion\\modulocliente\\eliminarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D208921-65F7-42F4-AE64-C93C7062DF11}|Proyecto_Construccion\\CapaVisual.csproj|solutionrelative:proyecto_construccion\\modulocliente\\eliminarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C1404-315D-437D-85B7-7D296AE2FFE5}|CapaDatos\\CapaDatos.csproj|c:\\users\\jerem\\source\\repos\\proyecto_construccion\\capadatos\\managecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0C1404-315D-437D-85B7-7D296AE2FFE5}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\managecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModificarZapato.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\Proyecto_Construccion\\ModuloInventario\\ModificarZapato.cs",
+              "RelativeDocumentMoniker": "Proyecto_Construccion\\ModuloInventario\\ModificarZapato.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\Proyecto_Construccion\\ModuloInventario\\ModificarZapato.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Construccion\\ModuloInventario\\ModificarZapato.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T01:52:35.248Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistarCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\Proyecto_Construccion\\ModuloCliente\\RegistarCliente.cs",
+              "RelativeDocumentMoniker": "Proyecto_Construccion\\ModuloCliente\\RegistarCliente.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\Proyecto_Construccion\\ModuloCliente\\RegistarCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Construccion\\ModuloCliente\\RegistarCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T01:48:58.397Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\Proyecto_Construccion\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Construccion\\Program.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\Proyecto_Construccion\\Program.cs",
+              "RelativeToolTip": "Proyecto_Construccion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T01:46:13.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageCliente.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\CapaDatos\\ManageCliente.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ManageCliente.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\CapaDatos\\ManageCliente.cs",
+              "RelativeToolTip": "CapaDatos\\ManageCliente.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T01:41:37.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EliminarCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\Proyecto_Construccion\\ModuloCliente\\EliminarCliente.cs",
+              "RelativeDocumentMoniker": "Proyecto_Construccion\\ModuloCliente\\EliminarCliente.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\Proyecto_Construccion\\ModuloCliente\\EliminarCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Construccion\\ModuloCliente\\EliminarCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T01:38:34.739Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModificarCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\Proyecto_Construccion\\ModuloCliente\\ModificarCliente.cs",
+              "RelativeDocumentMoniker": "Proyecto_Construccion\\ModuloCliente\\ModificarCliente.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\Proyecto_Construccion\\Proyecto_Construccion\\ModuloCliente\\ModificarCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Construccion\\ModuloCliente\\ModificarCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T01:38:31.312Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
